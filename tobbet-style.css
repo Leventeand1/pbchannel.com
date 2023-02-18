@@ -1,0 +1,27 @@
+body {
+    background: linear-gradient(skyblue,snow);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.fortnite {
+    color: red;
+    font-family: 'Jetbrains Mono', "consolas", sans-serif;
+    font-size: 50px;
+
+    position: absolute;
+    left: 550px;
+    top: -45px;
+}
+span {
+    color: darkcyan;
+}
+.szoveg {
+    position: absolute;
+    top: 50px;
+}
+.gomb {
+    color: aquamarine;
+}
+.link-button {
+    
+}
